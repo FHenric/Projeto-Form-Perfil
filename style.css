@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to right, #314755, #26a0da);
+    font: normal 15pt Arial;
+    
+}
+
+header{
+    color: azure;
+    text-align: center;
+}
+
+section{
+    background-color: rgb(215, 245, 245);
+    margin: auto;
+    width: 500px;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px #183a4e ;
+}
+form #btn{
+    margin: 0px 30px;
+}
+#foto{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 600px;
+}
+footer{
+    color: azure;
+    font-style: italic;
+    text-align: center;
+    font-size: 70%;
+}
